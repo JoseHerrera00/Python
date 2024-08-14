@@ -28,3 +28,16 @@ while conta <=10:
     print(f"{numuser} * {conta} = {numuser*conta}")
     conta+=1
 
+
+
+numuser2= int(input("Ingrese un segudno numero"))
+
+if numuser2 < 1: numuser2 =1
+
+cont2=1
+
+while cont2<=10:
+    conta+1
+    print(f"{numuser2}*{cont2} = {numuser2 * cont2}")
+    cont2+=1
+
